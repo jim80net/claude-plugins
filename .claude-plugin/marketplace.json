@@ -1,0 +1,21 @@
+{
+  "name": "jim80net-plugins",
+  "owner": {
+    "name": "jim80net"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by jim80net"
+  },
+  "plugins": [
+    {
+      "name": "claude-gatekeeper",
+      "source": {
+        "source": "github",
+        "repo": "jim80net/claude-gatekeeper"
+      },
+      "description": "PCRE2 regex-based permission gatekeeper for Claude Code tool calls",
+      "license": "MIT",
+      "keywords": ["security", "permissions", "hooks", "gatekeeper"]
+    }
+  ]
+}
