@@ -10,8 +10,8 @@
     {
       "name": "claude-gatekeeper",
       "source": {
-        "source": "github",
-        "repo": "jim80net/claude-gatekeeper"
+        "source": "url",
+        "url": "https://github.com/jim80net/claude-gatekeeper.git"
       },
       "description": "PCRE2 regex-based permission gatekeeper for Claude Code tool calls",
       "license": "MIT",
