@@ -16,6 +16,16 @@
       "description": "PCRE2 regex-based permission gatekeeper for Claude Code tool calls",
       "license": "MIT",
       "keywords": ["security", "permissions", "hooks", "gatekeeper"]
+    },
+    {
+      "name": "claude-skill-router",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jim80net/claude-skill-router.git"
+      },
+      "description": "Semantic skill, memory, and rule router — injects relevant knowledge per-turn via hooks",
+      "license": "MIT",
+      "keywords": ["skills", "memory", "routing", "hooks", "semantic-search", "embeddings"]
     }
   ]
 }
