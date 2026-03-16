@@ -18,14 +18,14 @@
       "keywords": ["security", "permissions", "hooks", "gatekeeper"]
     },
     {
-      "name": "claude-skill-router",
+      "name": "memex-claude",
       "source": {
         "source": "url",
-        "url": "https://github.com/jim80net/claude-skill-router.git"
+        "url": "https://github.com/jim80net/memex-claude.git"
       },
-      "description": "Semantic skill, memory, and rule router — injects relevant knowledge per-turn via hooks",
+      "description": "Memex skill, memory, and rule router — semantic context injection via embedding similarity",
       "license": "MIT",
-      "keywords": ["skills", "memory", "routing", "hooks", "semantic-search", "embeddings"]
+      "keywords": ["skills", "memory", "routing", "hooks", "semantic-search", "embeddings", "memex"]
     }
   ]
 }
