@@ -11,9 +11,9 @@
       "name": "claude-gatekeeper",
       "source": {
         "source": "url",
-        "url": "https://github.com/jim80net/claude-gatekeeper.git"
+        "url": "https://github.com/jim80net/gatekeeper-claude.git"
       },
-      "description": "PCRE2 regex-based permission gatekeeper for Claude Code tool calls",
+      "description": "PCRE2 regex-based permission gatekeeper for Claude Code tool calls (repo: gatekeeper-claude; plugin id remains claude-gatekeeper)",
       "license": "MIT",
       "keywords": ["security", "permissions", "hooks", "gatekeeper"]
     },
